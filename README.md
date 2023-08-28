@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhAgarwal566
 - 👀 I’m interested in robotics, automation, path planning, etc
-- 🌱 I am currently pursuing MSE, Robotics from University of Pennsylvania and have completed BTech in CSE from VIT, Vellore. 
+- 🌱 I have completed my MSE in Robotics from University of Pennsylvania and BTech in CSE from VIT, Vellore. 
 - 💞️ I’m looking to collaborate on ROS and other robotics' projects
 - 📫 Reach me at shubhagarwal566@gmail.com
 
