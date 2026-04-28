@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ShubhAgarwal566
-- 👀 I’m interested in robotics and automation
-- 🌱 I have completed my MSE in Robotics from University of Pennsylvania
-- 💞️ I’m looking to collaborate on ROS and other robotics' projects
-- 📫 Reach me at shubhagarwal566@gmail.com
+### Hi, I'm Shubh Agarwal
 
-<!---
-ShubhAgarwal566/ShubhAgarwal566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build robotic systems for the real world.
+
+Currently working on autonomous manufacturing systems at Antropi, combining robotics, perception, automation, and reliable software to make factories run smarter.
+
+I especially love robotic manipulators: the mix of kinematics, motion, control, and physical interaction is what made me fall in love with robotics.
+
+- Robotics, ROS 2, perception, motion planning, and factory automation
+- Building toward autonomous metal manufacturing
+- MSE Robotics, University of Pennsylvania
